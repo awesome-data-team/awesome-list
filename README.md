@@ -26,4 +26,5 @@ Wang](https://github.com/minghuicode)
 ## Links
 
 [awesome-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
-[detection](https://zhuanlan.zhihu.com/p/44670184)
+
+[intro to detection methods](https://zhuanlan.zhihu.com/p/44670184)
